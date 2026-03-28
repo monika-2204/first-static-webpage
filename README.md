@@ -1,2 +1,2 @@
 # first-static-webpage
-static webpage
+Grand Restro website
